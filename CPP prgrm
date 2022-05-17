@@ -11,13 +11,13 @@ int add()
     cin>>b;  
     cout<<"Addition = "<<a+b<<endl; 
 }
-int main () 
-{ 
+int main ()  
+{  
 float a,b,PI; 
 int c; 
 cout<<endl; 
-cout<<"******************** Calculator ******************\n"; 
-cout<<"---------------------------------------------------\n"; 
+cout<<"******************** Calculator ******************\n";  
+cout<<"---------------------------------------------------\n";  
 cout<<"Operations\t"<<"\tTrigonometric Functions"<<"\t\tLogarithmic Functions\n"; 
 cout<<"------------------------------------------------\n"; 
 cout<<"1: Division\t\t"<<"7: Sin\t\t"<<"\t\t13: Log"<<endl; 
